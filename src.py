@@ -1,4 +1,8 @@
-import cv
+#sudo apt-get install python-opencv
+#sudo apt-get install cmake
+
+
+import cv2 as cv
 import numpy as np
 from matplotlib import pyplot as plt
 
